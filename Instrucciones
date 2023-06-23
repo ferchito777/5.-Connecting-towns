@@ -1,0 +1,15 @@
+1.- Abre un compilador en tu computadora, si no tienes uno puedes utilizar uno en internet
+
+2.- Crea un nuevo proyecto o archivo, o bien puedes copiar el codigo en tu compilador
+
+3.- Si estas utilizando un compilador instalado guarda el archivo con extencion .cpp, ejemplo: torres.cpp, si estan en la red omite este paso
+
+4.- Corre el programa dando click en correr, compilar o ejecutar
+
+5.- El programa te pedira que le des un numero de casos a evaluar
+
+6.- Posteriormente a eso te pedira ingresar el numero de pueblos
+
+7.- Por ultimo te pedira ingresar el numero de rutas entre los pueblos
+
+8.- Despues de ingresar todo lo necesario el programa te mostrara el numero de rutas
